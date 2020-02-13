@@ -1,0 +1,128 @@
+body{
+  background-color: #dfd6dc;
+  font-family: 'Open Sans', sans-serif;
+}
+
+header{
+  width:100%;
+  text-align:center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+
+a{
+  text-decoration: none;
+}
+
+ h1{
+   font-size: 30px;
+   color: #9f9fa4;
+ }
+
+ul{
+  padding-left: 0px;
+}
+li{
+  list-style-type: none;
+  display: inline;
+  padding: 0 10px;
+}
+
+li a {
+  color: #4f4d4d;
+  font-weight: bold;
+}
+
+main{
+
+}
+
+div{
+  width: 70%;
+  background-color: #FFF;
+  margin-top: 20px;
+  margin-left: 15px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 12px #555;
+  padding: 20px;
+  display: inline-block;
+}
+
+h2{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 30px;
+}
+
+.border{
+  border-right:1px solid #979d92;
+}
+
+.comments a{
+  color:#5af134;
+}
+#logoAdmin{
+  width: 20px;
+  padding-right: 10px;
+  border-radius: 50px;
+}
+
+article{
+  padding: 20px 20px;
+}
+
+hr{
+  color: #656767;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+aside{
+  display: inline-block;
+  width: 20%;
+  vertical-align: top;
+  text-align: center;
+  margin-left: 40px;
+}
+
+aside span{
+  color: #5af134;
+}
+#asideSeparate{
+  width: 80%;
+  margin: 25px auto;
+}
+
+#viewAllJobs{
+  background-color: #1dcd69;
+  border: 1px solid #1dcd69;
+  width: 100%;
+  border-radius: 5px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #FFF;
+}
+
+footer{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  height: 150px;
+  width: 100%;
+  background-color: #979d92;
+}
+
+input{
+width:100px;
+}
+
+#go{
+  display:inline-block;
+  background-color: #1dcd69;
+  color: #FFF;
+  padding:6px 6px;
+  border: 1px solid #1dcd69;
+  vertical-align: top;
+}
